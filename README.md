@@ -1,5 +1,3 @@
-![Project Banner](/images/banner.jpeg)
-
 
 # 📍 Optimizing Urban Connectivity in Natal-RN
 
