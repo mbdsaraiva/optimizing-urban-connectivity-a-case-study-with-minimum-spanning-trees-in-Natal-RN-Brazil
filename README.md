@@ -20,8 +20,9 @@ To replicate the results of this case study, follow these steps:
 1. **Clone the Repository**
 
 ```bash
-git clone [LINK_TO_YOUR_REPOSITORY]
-cd [NAME_OF_YOUR_REPOSITORY]
+git clone https://github.com/mbdsaraiva/optimizing-urban-connectivity-a-case-study-with-minimum-spanning-trees-in-Natal-RN-Brazil.git natal-mst
+cd natal-mst
+
 ```
 
 2. **Install Dependencies**
