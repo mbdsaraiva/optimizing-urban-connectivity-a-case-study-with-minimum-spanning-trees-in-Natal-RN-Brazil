@@ -1,24 +1,24 @@
-# Optimizing Urban Connectivity in Natal-RN
+# 📍 Optimizing Urban Connectivity in Natal-RN
 
 This repository contains all the materials and source code related to a case study on optimizing urban connectivity in Natal, Rio Grande do Norte, Brazil. The project demonstrates how Graph Theory—specifically Minimum Spanning Trees (MSTs) using Kruskal's Algorithm—can be applied to improve the connection between key urban points. In this case, schools were used as reference points within the city of Natal-RN.
 
-## Links
+## 🔗 Links
 
-- Article: https://medium.com/@matheus.saraiva.083/optimizing-urban-connectivity-a-case-study-with-minimum-spanning-trees-in-natal-rn-brazil-a87e193481eb
-- NotebookLM: https://notebooklm.google.com/notebook/b0b8784e-587f-4455-be50-d0caa0f582dd?original_referer=https:%2F%2Fwww.google.com%23&pli=1
-- Audio: https://drive.google.com/file/d/1dYcZXZNEGvvF-s3TK7Em-SJ8xZlB9pAm/view?usp=sharing
+- 📄 [Article on Medium](https://medium.com/@matheus.saraiva.083/optimizing-urban-connectivity-a-case-study-with-minimum-spanning-trees-in-natal-rn-brazil-a87e193481eb)
+- 🧠 [NotebookLM](https://notebooklm.google.com/notebook/b0b8784e-587f-4455-be50-d0c0aa0f582d)
+- 🎧 [Audio Summary](https://drive.google.com/file/d/1dYcZXZNEGvvF-s3TK7Em-SJ8xZlB9pAm/view?usp=sharing)
 
-## Summary
+## 📄 Summary
 
 This project explores how Graph Theory and Minimum Spanning Trees (MSTs) can be used to optimize urban connectivity in Natal, Rio Grande do Norte, Brazil. Using Kruskal's Algorithm, we analyzed a network of schools to identify the most efficient connections between them, minimizing total distance while ensuring full network coverage. The project includes code implementation, visualizations, and an article with methodology and results.
 
 
-## Repository Contents
+## 🗂️ Repository Contents
 
 - `teste.py`: Original Python script used in the study, annotated and commented for clarity.
 - `README.md`: This file, explaining the purpose, structure, and usage of the repository.
 
-## Running the Project
+## ▶️ Running the Project
 
 To replicate the results of this case study, follow these steps:
 
