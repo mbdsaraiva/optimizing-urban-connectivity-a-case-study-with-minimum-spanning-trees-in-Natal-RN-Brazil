@@ -8,6 +8,11 @@ This repository contains all the materials and source code related to a case stu
 - NotebookLM: https://notebooklm.google.com/notebook/b0b8784e-587f-4455-be50-d0caa0f582dd?original_referer=https:%2F%2Fwww.google.com%23&pli=1
 - Audio: https://drive.google.com/file/d/1dYcZXZNEGvvF-s3TK7Em-SJ8xZlB9pAm/view?usp=sharing
 
+## Summary
+
+This project explores how Graph Theory and Minimum Spanning Trees (MSTs) can be used to optimize urban connectivity in Natal, Rio Grande do Norte, Brazil. Using Kruskal's Algorithm, we analyzed a network of schools to identify the most efficient connections between them, minimizing total distance while ensuring full network coverage. The project includes code implementation, visualizations, and an article with methodology and results.
+
+
 ## Repository Contents
 
 - `teste.py`: Original Python script used in the study, annotated and commented for clarity.
