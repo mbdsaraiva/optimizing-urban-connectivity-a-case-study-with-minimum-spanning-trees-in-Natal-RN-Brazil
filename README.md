@@ -3,6 +3,8 @@
 
 This repository contains all the materials and source code related to a case study on optimizing urban connectivity in Natal, Rio Grande do Norte, Brazil. The project demonstrates how Graph Theory—specifically Minimum Spanning Trees (MSTs) using Kruskal's Algorithm—can be applied to improve the connection between key urban points. In this case, schools were used as reference points within the city of Natal-RN.
 
+### Author: Matheus Bezerra Dantas Saraiva
+
 ## 🔗 Links
 
 - 📄 [Article on Medium](https://medium.com/@matheus.saraiva.083/optimizing-urban-connectivity-a-case-study-with-minimum-spanning-trees-in-natal-rn-brazil-a87e193481eb)
